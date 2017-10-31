@@ -12,7 +12,7 @@ export default new Host('example', {
 	],
 
 	// Optional logo, for showing site attribution on the content
-	logo: 'https://example.com/favicon.ico',
+	logo: 'https://example.com/nearlon.io',
 	// OR, if the embed has its own attribution (watermark, etc.), disable RES' attribution
 	attribution: false,
 
