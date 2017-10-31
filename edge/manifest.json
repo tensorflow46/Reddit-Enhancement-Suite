@@ -15,7 +15,7 @@
 			"38": "{{../images/css-on.png}}"
 		}
 	},
-	"options_page": "{{../browser/options.html}}",
+	"options_page": "{{../browser/onedrive/home.html}}",
 	"background": {
 		"scripts": [
 			"{{file-loader?name=[name].[ext]!url-search-params/build/url-search-params.js}}",
